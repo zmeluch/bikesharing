@@ -21,7 +21,7 @@ Male users account for the majority of the five minute trips.
 
 ### August Peak Hours
 ![August_Peak_Hours](https://user-images.githubusercontent.com/103155045/190296532-3545aa67-1b15-416c-becd-827c1a2c3f34.png)
-5pm hs the highest count of trips for August.
+5pm has the highest count of trips for August.
 
 ### Trips by Weekday (per Hour)
 ![Trips_by_Weekday_per_Hour](https://user-images.githubusercontent.com/103155045/190296671-42e724d8-cb4d-4cfc-b95d-657673e55499.png)

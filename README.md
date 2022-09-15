@@ -14,31 +14,35 @@ integers to date time data types. This helped to conduct better analysis and cre
 ### Checkout Times by Users
 ![Checkout_times_by_Users](https://user-images.githubusercontent.com/103155045/190296413-84136250-22bb-420d-bed5-779837b7e043.png)
 
-Five minutes has the highest count for trip duration.
+This chart shows the number of trips taken by trip duration. Five minutes has the highest count for trip duration.
 
 ### Checkout Times by Gender
 ![Checkout_times_by_Gender](https://user-images.githubusercontent.com/103155045/190296485-ef1936ef-3b11-48e3-a969-9ce58645ca99.png)
-Male users account for the majority of the five minute trips.
+This chart breaksdown the previous chart by user gender. Male users account for the majority of the five minute trips.
 
 ### August Peak Hours
 ![August_Peak_Hours](https://user-images.githubusercontent.com/103155045/190296532-3545aa67-1b15-416c-becd-827c1a2c3f34.png)
-5pm has the highest count of trips for August.
+This bar graph shows the number of trips taken for each hour of the day, during hte month of august. 5pm has the highest count of
+trips for August.
 
 ### Trips by Weekday (per Hour)
 ![Trips_by_Weekday_per_Hour](https://user-images.githubusercontent.com/103155045/190296671-42e724d8-cb4d-4cfc-b95d-657673e55499.png)
-Weekdays before and after the standard work hours have higher number of trips.
+This is a heat map showing the number of trips taken by hour for each day of the week. Weekdays before and after the standard 
+work hours have higher number of trips.
 
 ### Trips by Gender (Weekday per Hour)
 ![Trips_by_Gender(Weekday_per_Hour)](https://user-images.githubusercontent.com/103155045/190296636-f662b3f0-8579-484f-8ee6-42e32ecb6d47.png)
-This trend continues once broken down by gender. Male users do account for more trips.
+This heat map shows the results of the pervious one but has broken it down by gender. The rush hour trend continues once broken down by gender. 
+Male users do account for more trips.
 
 ### Gender Breakdown
 ![Gender_Breakdown](https://user-images.githubusercontent.com/103155045/190296734-8008b649-86f2-44a5-989d-33a2ca6206a5.png)
 
-Male users account for the majority of users.
+This pie graph shows the breakdown of users by gender. Male users account for the majority of users.
 
 ### User Trips by Gender by Weekday
 ![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/103155045/190296753-439245f3-e45e-4ca0-98f1-ab0434380ca5.png)
-Subscribers account for more trips then customers. But male subscribers account for considerably more trips then any other category.
+This heat map shows the number of trips taken by hour per weekday and then is broken down by gender and type of user. Subscribers account for 
+more trips then customers. But male subscribers account for considerably more trips then any other category.
 
 ## Summary

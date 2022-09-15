@@ -13,6 +13,7 @@ integers to date time data types. This helped to conduct better analysis and cre
 
 ### Checkout Times by Users
 ![Checkout_times_by_Users](https://user-images.githubusercontent.com/103155045/190296413-84136250-22bb-420d-bed5-779837b7e043.png)
+
 Five minutes has the highest count for trip duration.
 
 ### Checkout Times by Gender
@@ -33,6 +34,7 @@ This trend continues once broken down by gender. Male users do account for more 
 
 ### Gender Breakdown
 ![Gender_Breakdown](https://user-images.githubusercontent.com/103155045/190296734-8008b649-86f2-44a5-989d-33a2ca6206a5.png)
+
 Male users account for the majority of users.
 
 ### User Trips by Gender by Weekday

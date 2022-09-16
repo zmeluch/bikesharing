@@ -54,4 +54,4 @@ during the weekdays which accounts for the majority of trips.
 
 ### Additional Visualizations
 - Another visualization that would help investors is a graph number of trips by age of user broken down by gender.
-- A second visualization that could help investor is a graph showing the number of users by age broken down by customer and subscriber.
+- A second visualization that could help investor is a bar chart showing the number of users by age broken down by customer and subscriber.

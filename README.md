@@ -46,3 +46,12 @@ This heat map shows the number of trips taken by hour per weekday and then is br
 more trips then customers. But male subscribers account for considerably more trips then any other category.
 
 ## Summary
+The analysis of the NYC CitiBike data shows most trips last between 1 to 20 minutes. Also during the hours of 7am to 9am and 5pm to 7pm, during weekday, there
+is an increase in number of trips. These trends continue when broken down by gender. Also when broken down by customer and subscriber, the subscriber is 
+has increases in trips during the week and the customer increases on the weekend. The number of trips for subscribers is much greater than that of customers.
+And male users make up the majority of users and account for the most trips. From this data it looks like many subscribers use the service to commute to work
+during the weekdays which accounts for the majority of trips.
+
+### Additional Visualizations
+- Another visualization that would help investors is a graph number of trips by age of user broken down by gender.
+- A second visualization that could help investor is a graph showing the number of users by age broken down by customer and subscriber.
